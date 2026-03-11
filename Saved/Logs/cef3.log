@@ -1,0 +1,3 @@
+[337197:337197:0311/010843.841572:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[337197:337197:0311/010843.945901:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[337197:338661:0311/010843.954491:WARNING:user_type_filter.cc(59)] No user type filter specified for cimiefiiaegbelhefglklhhakcgmhkai. Using default user type filter, please update the app.
